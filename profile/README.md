@@ -39,3 +39,5 @@ Open an issue in one of our repositories, or email [crabpack.team@gmail.com](mai
 ---
 
 **Seriously Creative, Pure Crap.** 🦀
+
+_Profile photo: ["Crab migration extra"](https://commons.wikimedia.org/wiki/File:Crab_migration_extra_-_chris_bray-1.jpg) by Chris Bray, via Wikimedia Commons, licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Cropped from the original._
